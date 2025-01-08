@@ -61,11 +61,16 @@ function App() {
         or other appropriate means. Please review this policy periodically to stay informed about how we protect
         your data.
       </p>
+      
+      <h2 className="privacy-section-heading">Return and Refund Policy</h2>
+      <p className="privacy-text">
+        Please note that we do not offer returns or refunds for any products purchased through the Salman Kirana app. Once an order is placed and payment is processed, the sale is final. We encourage you to review your order carefully before confirming your purchase. If you have any issues with your order, please contact our customer support team, and we will do our best to assist you.
+      </p>
 
       <h2 className="privacy-section-heading">Contact Us</h2>
       <p className="privacy-text">
         If you have any questions or concerns about this Privacy Policy or how your data is handled, please
-        contact us at +91-8871543586.
+        contact us at +91-8871543586 or email at salmankirana70@gmail.com.
       </p>
     </div>
   );
