@@ -77,6 +77,11 @@ function App() {
         If you have any questions or concerns about this Privacy Policy or how your data is handled, please
         contact us at +91-8871543586 or email at salmankirana70@gmail.com.
       </p>
+
+      <h2 className="privacy-section-heading">Jurisdiction</h2>
+      <p className="privacy-text">
+        Salman Kirana is registered under the Government of Madhya Pradesh, India. Any legal disputes or matters related to the use of our services, including the privacy policy, will be governed by the laws of Madhya Pradesh, and the courts of Madhya Pradesh will have exclusive jurisdiction over any such matters.
+      </p>
     </div>
   );
 }
