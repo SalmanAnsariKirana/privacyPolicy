@@ -64,6 +64,13 @@ export const PrivacyPolicy = () => {
         <p className="privacy-text">
           Please note that we do not offer returns or refunds for any products purchased through the Salman Kirana app. Once an order is placed and payment is processed, the sale is final. We encourage you to review your order carefully before confirming your purchase. If you have any issues with your order, please contact our customer support team, and we will do our best to assist you.
         </p>
+        
+        <h2 className="privacy-section-heading">Data Deletion Policy</h2>
+        <p className="privacy-text">
+        We respect your right to request the deletion of your personal data. Please see our Data Deletion Policy for more information on how to submit a request.<a href="/data-deletion" target="_blank" rel="noopener noreferrer">
+            Data Deletion Policy
+          </a>.
+        </p>
   
         <h2 className="privacy-section-heading">Delivery Timeline</h2>
         <p className="privacy-text">
